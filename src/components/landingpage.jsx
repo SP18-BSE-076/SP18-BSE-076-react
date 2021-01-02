@@ -95,9 +95,9 @@ const LandingPage = () => {
         <CardDeck className="card">
             <CardColumns>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg"/>
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/4d8ae0e5-de14-4447-ab35-d3c6e6aa498c.a0b0baa49096a8ff3dd415a8b3bf045e.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff"/>
             <Card.Body>
-            <h2>shirts</h2>
+            <h2>Pants</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -129,16 +129,16 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                1500rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
         </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://media.tractorsupply.com/is/image/TractorSupplyCompany/1374635?$456$" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/c58f377a-b843-415d-b9f2-b66f4f32cd80_1.310f77dffec582a0b8893d6b253a29ec.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff" />
             <Card.Body>
-            <h2>pants</h2>
+            <h2>Sweater</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -170,16 +170,16 @@ const LandingPage = () => {
       
       </section>
             <p>
-                800$
+                800rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
                 </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.affordable.pk/uploads/products/thumbs/large_16032752190_Sweatshirts-for-mens-sweatshirt-online-shopping-in-pakistan.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/bcdb9e3a-c7d1-487a-98e6-43329504c662_1.e9fc8d15ab73d51771de22889eed343b.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
-            <h2>sweat shirts</h2>
+            <h2>Pants</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -211,7 +211,7 @@ const LandingPage = () => {
       
       </section>
             <p>
-                456$
+                4500rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
@@ -219,9 +219,9 @@ const LandingPage = () => {
         </Card>
         </CardColumns>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/b466ebc2-75e1-49de-be74-82f6062e6de1_1.37964eaaaf8981a403810853fb14247d.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
-            <h2>shirts</h2>
+            <h2>Boots</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -253,16 +253,16 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                7000rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
         </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://media.tractorsupply.com/is/image/TractorSupplyCompany/1374635?$456$" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/bbce52f6-07f8-4dc3-b371-736add68f81d_1.0d63fe41c708a738511436f71380de5e.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
-            <h2>pants</h2>
+            <h2>Boots</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -294,16 +294,16 @@ const LandingPage = () => {
       
       </section>
             <p>
-                800$
+                9000rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
                 </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.affordable.pk/uploads/products/thumbs/large_16032752190_Sweatshirts-for-mens-sweatshirt-online-shopping-in-pakistan.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/4d7e78f4-60d1-47b4-86da-68b15fc2ffca_1.7acd55bad62c80a67c18a63a7688f75c.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
-            <h2>sweat shirts</h2>
+            <h2>Boots</h2>
             <section class='rating-widget'>
         
         <div class='rating-stars text-center'>
@@ -335,14 +335,14 @@ const LandingPage = () => {
       
       </section>
             <p>
-                456$
+                5600rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
         </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/347b3fa0-4309-4005-9b27-a0fe9174f2ad_1.f2eb4110bdf781fcf570e7188ca7826c.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
             <h2>shirts</h2>
             <section class='rating-widget'>
@@ -376,7 +376,7 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                1500rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
@@ -384,7 +384,7 @@ const LandingPage = () => {
         </Card>
         <CardColumns>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/f936c382-5d2e-45e0-991d-88754aac7e1f_1.6d687ea767c0d7d9ecbbba16981d0f9e.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
             <h2>shirts</h2>
             <section class='rating-widget'>
@@ -418,14 +418,14 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                1600rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
         </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/602ba774-45f0-4712-8d65-9f167c9d882b_1.c0a73ff9923ae98d24ecba293bb35a51.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
             <h2>shirts</h2>
             <section class='rating-widget'>
@@ -459,14 +459,14 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                2000rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>
             </Card.Body>
         </Card>
         <Card style={{width:"50%"}}>
-            <Card.Img variant="top" src="https://www.all4o.com/image/cache/data/brand/TrueStory/TRUE-STORY-Elite-orienteering-shirt-Men-Deep-BLUE-800x800.jpg" />
+            <Card.Img variant="top" src="https://i5.walmartimages.com/asr/665b8ba9-20eb-48e4-9b14-e2cfb99dcc45_1.2d9bf3d11faa32577accddc23a78af73.jpeg?odnHeight=376&odnWidth=282&odnBg=ffffff" />
             <Card.Body>
             <h2>shirts</h2>
             <section class='rating-widget'>
@@ -500,7 +500,7 @@ const LandingPage = () => {
       
       </section>
             <p>
-                700$
+                1600rs
             </p>
             
             <Button variant="info" className="cardButton">Add to Cart</Button>

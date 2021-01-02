@@ -1,5 +1,5 @@
 import axios from "axios";
-axios.defaults.baseURL="https://nodeterminalsp18bse145.herokuapp.com/api/";
+axios.defaults.baseURL="https://treminal-lab-node.herokuapp.com//api/";
 axios.defaults.headers.common["x-auth-token"]=localStorage.getItem("token");
 class Generic{
     constructor(){}

@@ -19,12 +19,12 @@ const NewProduct = (props) => {
         </Grid>
         <Grid item xs ={3}></Grid>
         <Grid item xs ={6}>
-            <TextField id="standard-basic" label="link" fullWidth value={Link} onChange={(e=>{setLink(e.target.value)})}/>
-            <TextField id="standard-basic" label="name" fullWidth value={name} onChange={(e=>{setName(e.target.value)})}/>
-            <TextField id="standard-basic" label="price" fullWidth value={price} onChange={(e=>{setPrice(e.target.value)})}/>
-            <TextField id="standard-basic" label="pid" fullWidth value={pid} onChange={(e=>{setPid(e.target.value)})}/> 
+            <TextField id="standard-basic" label="image url" fullWidth value={Link} onChange={(e=>{setLink(e.target.value)})}/>
+            <TextField id="standard-basic" label="Product Name" fullWidth value={name} onChange={(e=>{setName(e.target.value)})}/>
+            <TextField id="standard-basic" label="Product Price" fullWidth value={price} onChange={(e=>{setPrice(e.target.value)})}/>
+            <TextField id="standard-basic" label="Product Id" fullWidth value={pid} onChange={(e=>{setPid(e.target.value)})}/> 
             <TextField id="standard-basic" label="category" fullWidth value={category} onChange={(e=>{setCategory(e.target.value)})}/> 
-            <TextField id="standard-basic" label="details" fullWidth value={details} onChange={(e=>{setDetails(e.target.value)})}/> 
+            <TextField id="standard-basic" label="Characteristics" fullWidth value={details} onChange={(e=>{setDetails(e.target.value)})}/> 
         </Grid>
         <Grid item xs ={3}></Grid>
         <Grid item xs ={3}></Grid>

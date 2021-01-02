@@ -16,14 +16,14 @@ const TopMenu = () => {
      return ( 
     
     ////////////
-    <Navbar bg="light" variant="dark">
+    <Navbar bg="dark" variant="light">
     <Nav className="mx-auto">
-      <Nav.Link href="/" style={{color:"black"}}>Home</Nav.Link>
-      <Nav.Link href="/products" style={{color:"black"}}>Typography</Nav.Link>
-      <Nav.Link href="/contact-us" style={{color:"black"}}>Contact Us</Nav.Link>
+      <Nav.Link href="/" style={{color:"white"}}>Home</Nav.Link>
+      <Nav.Link href="/products" style={{color:"white"}}>Typography</Nav.Link>
+      <Nav.Link href="/contact-us" style={{color:"white"}}>Contact Us</Nav.Link>
       {!userService.isLoggedin()? <>
-        <Nav.Link href="/login" style={{color:"black"}}>Login</Nav.Link>
-        <Nav.Link href="/register" style={{color:"black"}}>Register</Nav.Link>   
+        <Nav.Link href="/login" style={{color:"white"}}>Login</Nav.Link>
+        <Nav.Link href="/register" style={{color:"white"}}>Register</Nav.Link>   
              </>:<Button variant="contained"  onClick={(e)=>{
                  userService.logout();
                  window.location.reload();
