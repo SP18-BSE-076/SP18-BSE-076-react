@@ -17,6 +17,7 @@ class Generic{
         axios.delete(url).then(res=>{resolve(res.data)}).catch(err=>{
             reject(err);
         });
+        
 });
     put =(url,data)=>new Promise((resolve,reject)=>{
         axios.put(url,data).then(res=>{resolve(res.data)}).catch(err=>{
